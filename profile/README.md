@@ -1,2 +1,5 @@
 # CavageService - Netzwerk
-![banner](https://host.creqwa.dev/files/development/cavage/banner.png)
+![banner](https://cdn.cavageservice.de/banner.png)
+
+Website: [Click here](https://cavageservice.de)
+Support: [Click here](https://mailto:support@cavageservice.de)
